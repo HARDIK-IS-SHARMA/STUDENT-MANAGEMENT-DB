@@ -10,7 +10,6 @@ Download the given *db.sql file.
 Import *db.sql, if everything Okay then database will be imported.
 
 # Tables
-* admininfo
-* teachers
-* students
 * attendance
+* login
+* marks
